@@ -1,5 +1,5 @@
-config:
-  info: "config info for dev(master)"
+#config:
+  #info: "config info for dev(master)"
 
 # 修改后信息
 config:
